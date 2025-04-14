@@ -598,6 +598,7 @@ p{
     flex-direction: column;
     padding-top: 50px;
     padding-bottom: 10px;
+    text-align: centre;
 }
 
 #footer h2 {
