@@ -872,7 +872,7 @@ p{
     #footer h2 {
         color: white;
         font-weight: 500;
-        font-size: 1.8rem;
+        font-size: 1rem;
         letter-spacing: 0.1rem;
         margin-top: 10px;
         margin-bottom: 10px;
@@ -881,7 +881,7 @@ p{
     
     #footer p {
         color: white;
-        font-size: 1.3rem;
+        font-size: 1rem;
         text-align: center;
     }
 }
