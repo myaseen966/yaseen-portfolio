@@ -604,6 +604,7 @@ p{
 }
 
 #footer h2 {
+    width: 100%;
     color: white;
     font-weight: 500;
     font-size: 1.8rem;
@@ -625,6 +626,7 @@ p{
 }
 
 #footer p {
+    width: 100%;
     color: white;
     font-size: 1.3rem;
     text-align: centre;
@@ -734,6 +736,7 @@ p{
     }
 
     #footer h2 {
+        width: 100%;
         color: white;
         font-weight: 500;
         font-size: 1.8rem;
@@ -744,6 +747,7 @@ p{
     }
     
     #footer p {
+        width: 100%;
         color: white;
         font-size: 1.3rem;
         text-align: center;
